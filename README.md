@@ -13,7 +13,7 @@ mode: true
 message: In mourning for the victims of the flash floods in Nepal, I extend my deepest condolences to the affected families and communities. I encourage you to consider donating to the "Prime Minister's Disaster Relief Fund" of Nepal at pmdrf.nchl.com.np. Your contribution will help those in need during this difficult time.
 url: https://pmdrf.nchl.com.np
 ```
-4. To keep the mourn badge next to your site logo simply add the below code to your site logo’s HTML. This will be located inside the `partials/header.html` file in HUGO.
+4. To keep the mourn badge next to your site logo, simply add the below code to your site logo’s HTML, and customise as needed. This will be located inside the `partials/header.html` file in HUGO.
 ```html
 {{ if site.Data.mourn.mode }}
   <a href="{{ site.Data.mourn.url }}" target="_blank" rel="noopener noreferrer">
