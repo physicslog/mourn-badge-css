@@ -1,6 +1,8 @@
 # mourn-badge-css
 A CSS boilerplate class for the mourn with the message and donation link.
 
+<img width="418" height="195" alt="demo" src="https://github.com/user-attachments/assets/4fa848fc-0354-463b-8fa8-faee46181042" />
+
 ## Hugo Setup
 If you use [goHugo](https://gohugo.io/) for your website, you can do the following.
 1. Copy the `mourn-badge.css` into your theme `css` file.
