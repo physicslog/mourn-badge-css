@@ -10,8 +10,8 @@ If you use [goHugo](https://gohugo.io/) for your website, you can do the followi
 3. Create a file named `mourn.yml` in this directory. Use the following example:
 ```yml
 mode: true
-message: In mourning for the victims of the flash floods in Nepal, I extend my deepest condolences to the affected families and communities. I encourage you to consider donating to the "Prime Minister's Disaster Relief Fund" of Nepal at pmdrf.nchl.com.np. Your contribution will help those in need during this difficult time.
-url: https://pmdrf.nchl.com.np
+message: In mourning for the victims of the flash floods in Nepal, I extend my deepest condolences to the affected families and communities. I encourage you to consider donating to the "Prime Minister's Disaster Relief Fund" of Nepal at donate.gov.np/. Your contribution will help those in need during this difficult time.
+url: https://donate.gov.np/
 ```
 4. To keep the mourn badge next to your site logo, simply add the below code to your site logo’s HTML, and customise as needed. This will be located inside the `partials/header.html` file in HUGO.
 ```html
